@@ -1,0 +1,3 @@
+VendingMachine中定义了一个自动贩卖机类
+
+chatting用于调用itchat实现软件接口通讯
